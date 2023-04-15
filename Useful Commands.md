@@ -32,7 +32,7 @@ tar -czvf name-of-archive.tar.gz /path/to/directory-or-file
     -x: Specifies to extract the file
 
 
-# Misc Commands:
+# Misc Commands:p
 
 ### View This File:
 
