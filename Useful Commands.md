@@ -1,7 +1,7 @@
 # NMAP Commands:
 ### Basic Scan that outputs all 3 formats
 ```
-nmap <IP HERE> -A -sC -oX results
+nmap <IP HERE> -v -A -sC -oX results.xml
 ```
 ### Convert XML output into HTML page
 ```
