@@ -1,7 +1,7 @@
 # NMAP Commands:
 ### Basic Scan that outputs all 3 formats
 ```
-nmap <IP HERE> -A -sC -oA results
+nmap <IP HERE> -A -sC -oX results
 ```
 ### Convert XML output into HTML page
 ```
@@ -32,7 +32,7 @@ tar -czvf name-of-archive.tar.gz /path/to/directory-or-file
     -x: Specifies to extract the file
 
 
-# Misc Commands:p
+# Misc Commands:
 
 ### View This File:
 
